@@ -1,0 +1,14 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "HW4",
+  "main": "contracts.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jun Wu",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.1.0"
+  }
+}
